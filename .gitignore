@@ -1,0 +1,12 @@
+log/
+new_pipeline/
+tox21/
+__pycache__/
+*.yml
+*.db
+*.pdf
+*.pth
+*.sh
+processed_fusion_data/
+processed_fusion_data_3d/
+dataset/
