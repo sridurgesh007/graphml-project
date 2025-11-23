@@ -83,13 +83,29 @@ Google Drive/
 ```
 
 
+
+## Molecular Toxicity Prediction with Graph Neural Networks - Graph Transformer with MolCLr
+Adapted from https://github.com/yuyangw/MolCLR.git
+
 File structure to run below mentioned cells:
 1. Graph Transformer with MolCLR
 ```text
 Google Drive/
 │
 ├── 📁 ckpt/
+   │
+   └── 📁 node_masked/
+   └── 📁 subgraph_masked/
 ├── 📁 data/
+   │
+   └── 📁 tox21/
+   └── pubchem-10m-clean.txt     
 ├── config_finetune.yaml
+├── CS5284_group_21.ipynb
 ```text
+
+
+
+
+
 
