@@ -83,3 +83,15 @@ Google Drive/
 ```
 
 
+File structure to run below mentioned cells:
+1. Graph Transformer with MolCLR
+```text
+Google Drive/
+│
+├── 📁 ckpt/
+├── 📁 data/
+├── config_finetune.yaml
+
+
+
+
