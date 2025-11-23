@@ -1,0 +1,6 @@
+Starting Evaluation...
+Used 782 samples
+Graph-head AUROC: 0.7383
+LLM-head scores not available for all samples.
+Fused scores not available for all samples.
+Evaluation Finished.
