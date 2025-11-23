@@ -17,7 +17,11 @@ Please download the required files from the following Google Drive link:
 
 👉 [https://drive.google.com/drive/folders/1VFI8eS-SUUkvcUi4scdOVY5Ijq5J8boB?usp=sharing]
 
-File structre to run Text-GNN models :
+File structre to run below mentioned cells:
+1. GINE Assay Multi-Head Cross Attention
+2. PNA Cross Attention
+3. Text Enhanced Weighted Assay GINE (MLP Projection)
+4. Graph Transformer with Positional Encoding (Text+Graph)
 ```text
 GNN-TEXT/
 │
@@ -38,6 +42,7 @@ GNN-TEXT/
     ├── train_rdkit_desc.npz    # Compressed NumPy archive: Standardized RDKit Descriptors
     ├── val_rdkit_desc.npz
     └── test_rdkit_desc.npz
+
 
 
 
