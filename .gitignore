@@ -1,0 +1,4 @@
+tox21_processed/
+tox21_featurized/
+MolCLR/data/
+MolCLR-master/
