@@ -18,6 +18,7 @@ Please download the required files from the following Google Drive link:
 👉 [https://drive.google.com/drive/folders/1VFI8eS-SUUkvcUi4scdOVY5Ijq5J8boB?usp=sharing]
 
 File structre to run Text-GNN models :
+```text
 GNN-TEXT/
 │
 ├── 📁 graphs/                  # PyTorch Geometric Graph Objects (.pt)
@@ -37,6 +38,7 @@ GNN-TEXT/
     ├── train_rdkit_desc.npz    # Compressed NumPy archive: Standardized RDKit Descriptors
     ├── val_rdkit_desc.npz
     └── test_rdkit_desc.npz
+
 
 
 
