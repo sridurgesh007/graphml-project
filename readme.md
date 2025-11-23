@@ -102,10 +102,4 @@ Google Drive/
    └── pubchem-10m-clean.txt     
 ├── config_finetune.yaml
 ├── CS5284_group_21.ipynb
-```text
-
-
-
-
-
-
+```
