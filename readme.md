@@ -93,7 +93,7 @@ To add:
 File structure to run below mentioned cells:
 1. Graph Transformer with MolCLR
 ```text
-Google Drive/
+Graph Transformers/
 │
 ├── 📁 ckpt/
    │
@@ -109,6 +109,7 @@ Google Drive/
 To run finetuning for node-masking pretrained model, change ```config_finetune.yaml``` for ```fine_tune_from: node_masked```.
 
 To run finetuning for subgraph-masking pretrained model, change ```config_finetune.yaml``` for ```fine_tune_from: subgraph_masked```.
+
 
 
 
