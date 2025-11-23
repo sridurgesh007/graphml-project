@@ -108,4 +108,5 @@ Google Drive/
 ├── CS5284_group_21.ipynb
 ```
 To run finetuning for node-masking pretrained model, change ```config_finetune.yaml``` for ```fine_tune_from: node_masked```.
+
 To run finetuning for subgraph-masking pretrained model, change ```config_finetune.yaml``` for ```fine_tune_from: subgraph_masked```.
