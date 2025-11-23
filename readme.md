@@ -87,6 +87,10 @@ Google Drive/
 ## Molecular Toxicity Prediction with Graph Neural Networks - Graph Transformer with MolCLr
 Adapted from https://github.com/yuyangw/MolCLR.git
 
+To recreate the environment run in the PowerShell:
+`conda env create -f tox21_gnn_env.yaml
+pip install openbabel torch-scatter`
+
 File structure to run below mentioned cells:
 1. Graph Transformer with MolCLR
 ```text
@@ -103,3 +107,4 @@ Google Drive/
 ├── config_finetune.yaml
 ├── CS5284_group_21.ipynb
 ```
+
