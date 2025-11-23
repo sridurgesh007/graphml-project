@@ -84,13 +84,11 @@ Google Drive/
 
 
 
-## Molecular Toxicity Prediction with Graph Neural Networks - Graph Transformer with MolCLr
+## Molecular Toxicity Prediction with Graph Neural Networks - Graph Transformer with MolCLR
 Adapted from https://github.com/yuyangw/MolCLR.git
 
-To recreate the environment run in the PowerShell:
-`conda env create -f tox21_gnn_env.yaml
-
-pip install openbabel torch-scatter tensorboard`
+To add:
+`pip install openbabel torch-scatter tensorboard`
 
 File structure to run below mentioned cells:
 1. Graph Transformer with MolCLR
@@ -111,5 +109,6 @@ Google Drive/
 To run finetuning for node-masking pretrained model, change ```config_finetune.yaml``` for ```fine_tune_from: node_masked```.
 
 To run finetuning for subgraph-masking pretrained model, change ```config_finetune.yaml``` for ```fine_tune_from: subgraph_masked```.
+
 
 
